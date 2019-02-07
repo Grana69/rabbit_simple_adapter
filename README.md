@@ -1,0 +1,1 @@
+# rabbit_simple_adapter
