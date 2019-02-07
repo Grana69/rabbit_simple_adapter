@@ -1,0 +1,23 @@
+{
+  "name": "rabbit_simple_adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grana69/rabbit_simple_adapter.git"
+  },
+  "keywords": [],
+  "author": "Grana69 <siscom.grana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grana69/rabbit_simple_adapter/issues"
+  },
+  "homepage": "https://github.com/Grana69/rabbit_simple_adapter#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
